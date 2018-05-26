@@ -1,0 +1,17 @@
+Conversion Report:
+Created by AutoCAD DWG Convert Wednesday, May 16, 2018, 11:31 AM.
+
+Conversion Summary
+------------------
+Conversion File Format:  AutoCAD 2013/LT 2013 Drawing Format
+Conversion package type: In-place (overwrite files)
+Converted DWG files:     0
+Recovered DWG files:     0
+Conversion errors:       1
+
+
+Conversion Errors
+-----------------
+Unconverted files:
+The files listed below could not be saved due to a sharing violation or disk write problem.
+C:\Users\jesss\Documents\AutoCAD\pcb_shape.dwg
